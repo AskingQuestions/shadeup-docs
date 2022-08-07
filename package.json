@@ -1,0 +1,22 @@
+{
+	"name": "shadeup-docs",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"directories": {
+		"doc": "docs"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "cd \"node_modules/svdoc\" && npx vite dev",
+		"build": "cd \"node_modules/svdoc\" && npx vite build && shx cp -r ./build ../../build"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"svdoc": "^0.0.5"
+	},
+	"devDependencies": {
+		"shx": "^0.3.4"
+	}
+}
