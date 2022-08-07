@@ -1,5 +1,5 @@
 <script>
-	import Icon from "$lib/Icon.svelte";
+	import Icon from "$lib/icon.svelte";
 
 	export let path = "";
 	export let target = "";
