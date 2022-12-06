@@ -16,7 +16,7 @@ Demonstrates an HLSL input and a constant value input.
 
 ---
 
-<GetCode path={["[MATERIAL] Custom Material Nodes", "Base Input Only"]} target="MaterialNodeOutput_input.zip" />
+<GetCode path={["[MATERIAL] Custom Material Nodes", "Base Input Only"]} target="MaterialNodeOutput_input" />
 
 ## Usage
 

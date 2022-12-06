@@ -16,7 +16,7 @@ Simple output node accessible from vertex factories, compute shaders, etc.
 
 ---
 
-<GetCode path={["[MATERIAL] Custom Material Nodes", "Base Final Output"]} target="MaterialNodeOutput_output.zip" />
+<GetCode path={["[MATERIAL] Custom Material Nodes", "Base Final Output"]} target="MaterialNodeOutput_output" />
 
 ## Usage
 

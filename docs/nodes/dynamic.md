@@ -16,7 +16,7 @@ Allows the user to define a variable number of outputs with names in the node de
 
 ---
 
-<GetCode path={["[MATERIAL] Custom Material Nodes", "Dynamic Outputs"]} target="MaterialNodeOutput_dynamic.zip" />
+<GetCode path={["[MATERIAL] Custom Material Nodes", "Dynamic Outputs"]} target="MaterialNodeOutput_dynamic" />
 
 ## Usage
 

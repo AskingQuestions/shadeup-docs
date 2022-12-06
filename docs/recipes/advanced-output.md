@@ -12,8 +12,8 @@ title: UE5 Advanced Custom output with Compute Shaders | Shadeup
 
 That title is a mouthful, but in short, this recipe provides ways to:
 
--   Expose more fine-grained control of backend systems to artists via material graphs.
--   Drive/read back gameplay-critical values from material graphs to the CPU.
+- Expose more fine-grained control of backend systems to artists via material graphs.
+- Drive/read back gameplay-critical values from material graphs to the CPU.
 
 ---
 
@@ -21,11 +21,11 @@ That title is a mouthful, but in short, this recipe provides ways to:
 
 #### 1.1 Scaffold a material compute shader:
 
-<GetCode noTitle={true} path={["[COMPUTE] Compute Shader", "Base with material"]} target="ComputeShader_basemat.zip" />
+<GetCode noTitle={true} path={["[COMPUTE] Compute Shader", "Base with material"]} target="ComputeShader_basemat" />
 
 #### 1.2 Scaffold an output-only material node:
 
-<GetCode noTitle={true} path={["[MATERIAL] Custom Material Nodes", "Base Final Output"]} target="MaterialNodeOutput_output.zip" />
+<GetCode noTitle={true} path={["[MATERIAL] Custom Material Nodes", "Base Final Output"]} target="MaterialNodeOutput_output" />
 
 > If you don't have the `shadeup` command installed [follow this](/docs/install) to get it.
 

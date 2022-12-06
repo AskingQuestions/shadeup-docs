@@ -14,7 +14,7 @@ title: Complex custom material function | Nodes | Shadeup
 
 Simple material expression with an input and an output.
 
-<GetCode path={["[MATERIAL] Custom Material Nodes", "Base Function"]} target="MaterialNodeOutput_fn.zip" />
+<GetCode path={["[MATERIAL] Custom Material Nodes", "Base Function"]} target="MaterialNodeOutput_fn" />
 
 ## Usage
 
