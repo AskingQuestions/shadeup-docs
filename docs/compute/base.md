@@ -1,5 +1,5 @@
 ---
-title: Bare-bones setup | Compute | Shadeup
+title: Bare-bones Compute Shader in UE5 | Compute | Shadeup
 description: Example how-to for writing and dispatching Compute Shaders in Unreal Engine 5.
 ---
 

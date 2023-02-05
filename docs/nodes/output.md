@@ -1,5 +1,5 @@
 ---
-title: Advanced output node | Nodes | Shadeup
+title: Custom advanced output material node in UE5 | Nodes | Shadeup
 ---
 
 <script>

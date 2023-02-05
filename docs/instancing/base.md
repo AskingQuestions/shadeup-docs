@@ -1,5 +1,5 @@
 ---
-title: Bare-bones single triangle | Indirect Instancing | Shadeup
+title: Bare-bones single triangle indirect instancing in UE5 | Indirect Instancing | Shadeup
 ---
 
 <script>

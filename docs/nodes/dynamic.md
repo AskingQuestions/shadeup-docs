@@ -1,5 +1,5 @@
 ---
-title: Dynamic material node | Nodes | Shadeup
+title: Custom dynamic material node in UE5 | Nodes | Shadeup
 ---
 
 <script>

@@ -1,5 +1,5 @@
 ---
-title: Complex custom material function | Nodes | Shadeup
+title: Custom material expression in UE5 | Nodes | Shadeup
 ---
 
 <script>

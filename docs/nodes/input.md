@@ -1,5 +1,5 @@
 ---
-title: Custom input material node | Nodes | Shadeup
+title: Custom input material node in UE5 | Nodes | Shadeup
 ---
 
 <script>

@@ -1,5 +1,5 @@
 ---
-title: Material graph to render target | Compute | Shadeup
+title: Material graph to render target via compute in UE5 | Compute | Shadeup
 description: Example how-to for drawing material graphs to render targets in Unreal Engine 5 compute shaders.
 ---
 
