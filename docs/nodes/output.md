@@ -10,7 +10,13 @@ title: Advanced output node | Nodes | Shadeup
 
 ![Unreal material expression](img/nodes/nodes-output-shot.png)
 
-# Advanced output node
+<div style="display: none;">
+
+#### Advanced output node
+
+</div>
+
+# Custom advanced output material node in UE5
 
 Simple output node accessible from vertex factories, compute shaders, etc.
 

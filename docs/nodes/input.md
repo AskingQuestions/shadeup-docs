@@ -10,7 +10,13 @@ title: Custom input material node | Nodes | Shadeup
 
 ![Unreal material expression](img/nodes/nodes-input-shot.png)
 
-# Custom input material node
+<div style="display: none;">
+
+#### Custom input material node
+
+</div>
+
+# Custom input material node in UE5
 
 Demonstrates an HLSL input and a constant value input.
 

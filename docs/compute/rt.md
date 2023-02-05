@@ -11,7 +11,13 @@ description: Example how-to for drawing into a render target using a compute sha
 
 ![Unreal Blueprint graph calling a compute shader](img/compute/compute-rt-shot.png)
 
-# Writing to a render target
+<div style="display: none;">
+
+#### Writing to a render target
+
+</div>
+
+# Writing to a render target via compute in UE5
 
 Drawing to render targets from compute shaders is an extremely useful method to render all sorts of things that need multiple passes or expensive calculations cached.
 
@@ -19,9 +25,9 @@ Drawing to render targets from compute shaders is an extremely useful method to 
 
 ## Applications
 
--   2d simulations _(water, game of life, etc)_
--   Complex/procedural texture baking
--   Custom rendering that doesn't need to be run every frame
+- 2d simulations _(water, game of life, etc)_
+- Complex/procedural texture baking
+- Custom rendering that doesn't need to be run every frame
 
 ## Usage
 
@@ -32,11 +38,11 @@ Drawing to render targets from compute shaders is an extremely useful method to 
 
 ## Notes
 
--   The render target you use should be a multiple of 32. If not the sampler might go over the edge and wrap back around _(depending on your settings)_.
+- The render target you use should be a multiple of 32. If not the sampler might go over the edge and wrap back around _(depending on your settings)_.
 
 ## Helpful reading
 
--   [Render Dependency Graph](https://docs.unrealengine.com/5.0/en-US/render-dependency-graph-in-unreal-engine/)
+- [Render Dependency Graph](https://docs.unrealengine.com/5.0/en-US/render-dependency-graph-in-unreal-engine/)
 
 ---
 

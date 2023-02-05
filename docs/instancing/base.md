@@ -10,7 +10,13 @@ title: Bare-bones single triangle | Indirect Instancing | Shadeup
 
 ![3d triangle](img/instancing/single-triangle-shot.png)
 
-# Bare-bones single triangle setup
+<div style="display: none;">
+
+#### Bare-bones single triangle setup
+
+</div>
+
+# Bare-bones single triangle indirect instancing in UE5
 
 An almost minimal indirect-instancing setup, with a work queue and null vertex buffer.
 
@@ -26,7 +32,7 @@ An almost minimal indirect-instancing setup, with a work queue and null vertex b
 
 ## Helpful reading
 
--   [Render Dependency Graph](https://docs.unrealengine.com/5.0/en-US/render-dependency-graph-in-unreal-engine/)
+- [Render Dependency Graph](https://docs.unrealengine.com/5.0/en-US/render-dependency-graph-in-unreal-engine/)
 
 ---
 

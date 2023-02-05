@@ -11,7 +11,13 @@ description: Example how-to for writing and dispatching Compute Shaders in Unrea
 
 ![Unreal Blueprint graph calling a compute shader](img/compute/compute-base-shot.png)
 
-# Bare-bones setup
+<div style="display: none;">
+
+#### Bare-bones setup
+
+</div>
+
+# Bare-bones Compute Shader in UE5
 
 A minimal compute-shader scaffold. Great as a starting point for new shaders or for learning the basics of how shaders are defined in Unreal.
 
@@ -26,14 +32,14 @@ A minimal compute-shader scaffold. Great as a starting point for new shaders or 
 
 ## Notes
 
--   The mechanism used for detecting when the results are ready on the CPU is for example purposes _(see `F[NAME]Interface::DispatchRenderThread - RunnerFunc`)_. A better strategy would be to queue and check a list of buffers per tick in an external singleton.
+- The mechanism used for detecting when the results are ready on the CPU is for example purposes _(see `F[NAME]Interface::DispatchRenderThread - RunnerFunc`)_. A better strategy would be to queue and check a list of buffers per tick in an external singleton.
 
 ## Helpful reading
 
--   [Using Compute Shaders in Unreal Engine 4](https://medium.com/realities-io/using-compute-shaders-in-unreal-engine-4-f64bac65a907)
--   [Overview of Shaders in Plugins](https://docs.unrealengine.com/5.0/en-US/overview-of-shaders-in-plugins-unreal-engine/)
--   [UE4ShaderPluginDemo](https://github.com/Temaran/UE4ShaderPluginDemo)
--   [Render Dependency Graph](https://docs.unrealengine.com/5.0/en-US/render-dependency-graph-in-unreal-engine/)
+- [Using Compute Shaders in Unreal Engine 4](https://medium.com/realities-io/using-compute-shaders-in-unreal-engine-4-f64bac65a907)
+- [Overview of Shaders in Plugins](https://docs.unrealengine.com/5.0/en-US/overview-of-shaders-in-plugins-unreal-engine/)
+- [UE4ShaderPluginDemo](https://github.com/Temaran/UE4ShaderPluginDemo)
+- [Render Dependency Graph](https://docs.unrealengine.com/5.0/en-US/render-dependency-graph-in-unreal-engine/)
 
 ---
 

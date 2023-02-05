@@ -10,7 +10,13 @@ title: Mesh instancing | Indirect Instancing | Shadeup
 
 ![vortex of cubes](img/instancing/mesh-shot.png)
 
-# Mesh instancing
+<div style="display: none;">
+
+#### Mesh instancing
+
+</div>
+
+# Indirect mesh instancing in UE5
 
 Indirect instancing that reads from a vertex buffer.
 
@@ -26,7 +32,7 @@ Indirect instancing that reads from a vertex buffer.
 
 ## Helpful reading
 
--   [Render Dependency Graph](https://docs.unrealengine.com/5.0/en-US/render-dependency-graph-in-unreal-engine/)
+- [Render Dependency Graph](https://docs.unrealengine.com/5.0/en-US/render-dependency-graph-in-unreal-engine/)
 
 ---
 

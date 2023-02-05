@@ -9,7 +9,13 @@ hero: false
 
 ![Compute shader](img/compute.jpg)
 
-# Compute Shaders
+<div style="display: none;">
+
+#### Compute Shaders
+
+</div>
+
+# Compute Shaders in UE5
 
 Compute shaders are the most powerful tool at your disposal on the GPU . They can generate data (filling buffers), enqueue draw calls (dynamic/indirect instancing), and do massively parallel reductions (summation, filtering) at speeds fit for real-time rendering.
 

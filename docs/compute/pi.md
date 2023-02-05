@@ -11,7 +11,13 @@ description: Example how-to that calculates PI in parallel using a compute shade
 
 ![Unreal Blueprint graph calling a compute shader](img/compute/compute-pi-shot.png)
 
-# Calculate PI
+<div style="display: none;">
+
+#### Calculate PI
+
+</div>
+
+# Calculate PI via compute in UE5
 
 This example approximates PI in parallel using the Monte Carlo method.
 When running you're only going to be able to get about 2-3 decimal places of accuracy.
@@ -27,14 +33,14 @@ When running you're only going to be able to get about 2-3 decimal places of acc
 
 ## Notes
 
--   The mechanism used for detecting when the results are ready on the CPU is for example purposes _(see `F[NAME]Interface::DispatchRenderThread - RunnerFunc`)_. A better strategy would be to queue and check a list of buffers per tick in an external singleton.
+- The mechanism used for detecting when the results are ready on the CPU is for example purposes _(see `F[NAME]Interface::DispatchRenderThread - RunnerFunc`)_. A better strategy would be to queue and check a list of buffers per tick in an external singleton.
 
 ## Helpful reading
 
--   [Using Compute Shaders in Unreal Engine 4](https://medium.com/realities-io/using-compute-shaders-in-unreal-engine-4-f64bac65a907)
--   [Overview of Shaders in Plugins](https://docs.unrealengine.com/5.0/en-US/overview-of-shaders-in-plugins-unreal-engine/)
--   [UE4ShaderPluginDemo](https://github.com/Temaran/UE4ShaderPluginDemo)
--   [Render Dependency Graph](https://docs.unrealengine.com/5.0/en-US/render-dependency-graph-in-unreal-engine/)
+- [Using Compute Shaders in Unreal Engine 4](https://medium.com/realities-io/using-compute-shaders-in-unreal-engine-4-f64bac65a907)
+- [Overview of Shaders in Plugins](https://docs.unrealengine.com/5.0/en-US/overview-of-shaders-in-plugins-unreal-engine/)
+- [UE4ShaderPluginDemo](https://github.com/Temaran/UE4ShaderPluginDemo)
+- [Render Dependency Graph](https://docs.unrealengine.com/5.0/en-US/render-dependency-graph-in-unreal-engine/)
 
 ---
 

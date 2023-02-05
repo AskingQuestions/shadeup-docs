@@ -10,7 +10,13 @@ title: Dynamic material node | Nodes | Shadeup
 
 ![Unreal material expression](img/nodes/nodes-dynamic-shot.png)
 
-# Dynamic material node
+<div style="display: none;">
+
+#### Dynamic material node
+
+</div>
+
+# Custom dynamic material node in UE5
 
 Allows the user to define a variable number of outputs with names in the node details panel.
 

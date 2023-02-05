@@ -11,7 +11,13 @@ description: Example how-to for executing material graphs from within Unreal Eng
 
 ![Unreal Blueprint graph calling a compute shader](img/compute/compute-basemat-shot.png)
 
-# Bare-bones material graph evaluation
+<div style="display: none;">
+
+#### Bare-bones material graph evaluation
+
+</div>
+
+# Bare-bones material graph evaluation via Compute Shader in UE5
 
 This template provides an example of linking a custom compute shader to any material defined in the editor. Allowing you to input/output parameters from material graphs defined by developers or artists.
 
@@ -19,9 +25,9 @@ This template provides an example of linking a custom compute shader to any mate
 
 ## Applications
 
--   Drive indirect instancing from a texture sampled in a material graph.
--   Sample and find the average color of a material on the GPU.
--   Generate & derive height-maps/normals using user-defined graphs.
+- Drive indirect instancing from a texture sampled in a material graph.
+- Sample and find the average color of a material on the GPU.
+- Generate & derive height-maps/normals using user-defined graphs.
 
 This workflow opens up a world of possibilities and is one of the coolest features of the Unreal shader pipeline.
 
@@ -34,7 +40,7 @@ This workflow opens up a world of possibilities and is one of the coolest featur
 
 ## Helpful reading
 
--   [Render Dependency Graph](https://docs.unrealengine.com/5.0/en-US/render-dependency-graph-in-unreal-engine/)
+- [Render Dependency Graph](https://docs.unrealengine.com/5.0/en-US/render-dependency-graph-in-unreal-engine/)
 
 ---
 

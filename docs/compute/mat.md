@@ -11,7 +11,13 @@ description: Example how-to for drawing material graphs to render targets in Unr
 
 ![Unreal Blueprint graph calling a compute shader](img/compute/compute-mat-shot.png)
 
-# Material graph to render target
+<div style="display: none;">
+
+#### Material graph to render target
+
+</div>
+
+# Material graph to render target via compute in UE5
 
 This is similar to the [`Draw Material to Render Target`](https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Rendering/DrawMaterialtoRenderTarget/) node provided by Unreal but executed through compute.
 
@@ -26,11 +32,11 @@ This is similar to the [`Draw Material to Render Target`](https://docs.unrealeng
 
 ## Notes
 
--   The render target you use should be a multiple of 32. If not the sampler might go over the edge and wrap back around _(depending on your settings)_.
+- The render target you use should be a multiple of 32. If not the sampler might go over the edge and wrap back around _(depending on your settings)_.
 
 ## Helpful reading
 
--   [Render Dependency Graph](https://docs.unrealengine.com/5.0/en-US/render-dependency-graph-in-unreal-engine/)
+- [Render Dependency Graph](https://docs.unrealengine.com/5.0/en-US/render-dependency-graph-in-unreal-engine/)
 
 ---
 

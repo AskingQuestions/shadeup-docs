@@ -9,7 +9,13 @@ hero: false
 
 ![Picture of many spheres making the shape of a layered sine wave](img/instancing.jpg)
 
-# Indirect Instancing
+<div style="display: none;">
+
+#### Indirect Instancing
+
+</div>
+
+# Indirect Instancing in UE5
 
 Indirect instancing is like normal instancing, but it allows for the GPU to drive instance count. One of the most notable uses of this is in GPU-driven particle systems; where particles can spawn, simulate, and die all without expensive CPU calls.
 

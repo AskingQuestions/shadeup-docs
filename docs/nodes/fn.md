@@ -10,7 +10,13 @@ title: Complex custom material function | Nodes | Shadeup
 
 ![Unreal material expression](img/nodes/nodes-fn-shot.png)
 
-# Custom material expression
+<div style="display: none;">
+
+#### Custom material expression
+
+</div>
+
+# Custom material expression in UE5
 
 Simple material expression with an input and an output.
 
