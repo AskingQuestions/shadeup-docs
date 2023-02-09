@@ -1,3 +1,7 @@
+---
+canonical: https://unreal.shadeup.dev/docs/proxies
+---
+
 ![Wireframe cube](img/proxy.jpg)
 
 # Proxies/Vertex Factories

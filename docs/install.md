@@ -1,5 +1,6 @@
 ---
 title: Installing Shadeup
+canonical: https://unreal.shadeup.dev/docs/install
 ---
 
 ![Down arrow icon](img/install.jpg)

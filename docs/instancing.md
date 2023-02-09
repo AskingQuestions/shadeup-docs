@@ -1,6 +1,7 @@
 ---
 title: Indirect Instancing | Shadeup
 hero: false
+canonical: https://unreal.shadeup.dev/docs/instancing
 ---
 
 <script>

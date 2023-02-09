@@ -1,6 +1,7 @@
 ---
 title: Bare-bones Compute Shader in UE5 | Compute | Shadeup
 description: Example how-to for writing and dispatching Compute Shaders in Unreal Engine 5.
+canonical: https://unreal.shadeup.dev/docs/compute/base
 ---
 
 <script>

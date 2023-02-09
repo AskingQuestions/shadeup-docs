@@ -1,5 +1,6 @@
 ---
 title: Shadeup CLI
+canonical: https://unreal.shadeup.dev/docs/cli
 ---
 
 ![CLI](img/cli.jpg)

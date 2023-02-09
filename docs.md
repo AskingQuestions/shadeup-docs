@@ -1,5 +1,6 @@
 ---
 title: Shadeup Docs
+canonical: https://unreal.shadeup.dev/docs
 ---
 
 <script>

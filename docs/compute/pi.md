@@ -1,6 +1,7 @@
 ---
 title: Calculate PI via compute in UE5 | Compute | Shadeup
 description: Example how-to that calculates PI in parallel using a compute shader in Unreal Engine 5.
+canonical: https://unreal.shadeup.dev/docs/compute/pi
 ---
 
 <script>

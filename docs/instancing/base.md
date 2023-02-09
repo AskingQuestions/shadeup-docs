@@ -1,5 +1,6 @@
 ---
 title: Bare-bones single triangle indirect instancing in UE5 | Indirect Instancing | Shadeup
+canonical: https://unreal.shadeup.dev/docs/instancing/base
 ---
 
 <script>

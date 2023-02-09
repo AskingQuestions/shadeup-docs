@@ -1,5 +1,6 @@
 ---
 title: What is Shadeup?
+canonical: https://unreal.shadeup.dev/docs/shadeup
 ---
 
 ![Shadup logo](img/shadeup.jpg)

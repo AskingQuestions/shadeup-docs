@@ -1,5 +1,6 @@
 ---
 title: Custom dynamic material node in UE5 | Nodes | Shadeup
+canonical: https://unreal.shadeup.dev/docs/nodes/dynamic
 ---
 
 <script>

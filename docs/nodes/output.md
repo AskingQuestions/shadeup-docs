@@ -1,5 +1,6 @@
 ---
 title: Custom advanced output material node in UE5 | Nodes | Shadeup
+canonical: https://unreal.shadeup.dev/docs/nodes/output
 ---
 
 <script>

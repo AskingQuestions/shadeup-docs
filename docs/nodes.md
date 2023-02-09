@@ -1,6 +1,7 @@
 ---
 title: Custom Nodes | Shadeup
 hero: false
+canonical: https://unreal.shadeup.dev/docs/nodes
 ---
 
 <script>

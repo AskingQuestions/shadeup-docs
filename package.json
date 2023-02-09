@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "svdoc": "^0.0.7"
+    "svdoc": "^0.0.9"
   },
   "devDependencies": {
     "shx": "^0.3.4"

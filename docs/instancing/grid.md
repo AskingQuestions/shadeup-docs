@@ -1,5 +1,6 @@
 ---
 title: View-dependent grid | Indirect Instancing | Shadeup
+canonical: https://unreal.shadeup.dev/docs/instancing/grid
 ---
 
 <script>

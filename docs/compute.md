@@ -1,5 +1,6 @@
 ---
 title: Compute Shaders | Shadeup
+canonical: https://unreal.shadeup.dev/docs/compute
 hero: false
 ---
 

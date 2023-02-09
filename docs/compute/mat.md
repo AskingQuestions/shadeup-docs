@@ -1,6 +1,7 @@
 ---
 title: Material graph to render target via compute in UE5 | Compute | Shadeup
 description: Example how-to for drawing material graphs to render targets in Unreal Engine 5 compute shaders.
+canonical: https://unreal.shadeup.dev/docs/compute/mat
 ---
 
 <script>

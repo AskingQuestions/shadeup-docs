@@ -1,5 +1,6 @@
 ---
 title: UE5 Advanced Custom output with Compute Shaders | Shadeup
+canonical: https://unreal.shadeup.dev/docs/recipies/advanced-output
 ---
 
 ![Material graph node](img/recipes/advanced-output-material-shot.png)

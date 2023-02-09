@@ -1,6 +1,7 @@
 ---
 title: Bare-bones material graph evaluation via Compute Shader in UE5 | Compute | Shadeup
 description: Example how-to for executing material graphs from within Unreal Engine 5 compute shaders.
+canonical: https://unreal.shadeup.dev/docs/compute/basemat
 ---
 
 <script>

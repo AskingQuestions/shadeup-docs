@@ -1,5 +1,6 @@
 ---
 title: Indirect mesh instancing in UE5 | Indirect Instancing | Shadeup
+canonical: https://unreal.shadeup.dev/docs/instancing/inst
 ---
 
 <script>

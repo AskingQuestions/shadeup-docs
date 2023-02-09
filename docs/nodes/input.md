@@ -1,5 +1,6 @@
 ---
 title: Custom input material node in UE5 | Nodes | Shadeup
+canonical: https://unreal.shadeup.dev/docs/nodes/input
 ---
 
 <script>

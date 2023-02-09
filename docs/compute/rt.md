@@ -1,6 +1,7 @@
 ---
 title: Writing to a render target via compute in UE5 | Compute | Shadeup
 description: Example how-to for drawing into a render target using a compute shader in Unreal Engine 5.
+canonical: https://unreal.shadeup.dev/docs/compute/rt
 ---
 
 <script>

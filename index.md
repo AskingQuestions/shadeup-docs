@@ -1,5 +1,6 @@
 ---
 title: Shadeup Home
+canonical: https://unreal.shadeup.dev
 ---
 
 <script>
