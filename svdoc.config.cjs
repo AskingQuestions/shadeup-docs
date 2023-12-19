@@ -5,7 +5,7 @@ const config = {
   primary: "#C953DD",
   external: [
     {
-      href: "https://discord.gg/FfTtRMhDAS",
+      href: "https://discord.gg/7JSxSxde9a",
       text: "Discord",
       icon: ":discord",
     },
