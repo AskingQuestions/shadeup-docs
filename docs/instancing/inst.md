@@ -21,7 +21,7 @@ canonical: https://unreal.shadeup.dev/docs/instancing/inst
 
 Indirect instancing that reads from a vertex buffer.
 
-<GetCode path={["[INSTANCING] Indirect Instancing", "Mesh"]} target="IndirectInstancing_mesh" />
+<GetCode path={["[INSTANCING] Indirect Instancing", "Mesh"]} target="IndirectInstancing_inst" />
 
 ## Usage
 
