@@ -7,11 +7,11 @@ canonical: https://unreal.shadeup.dev/docs/cli
 
 # CLI Usage
 
-The `shadeup` command is very simple, there are no options or sub-commands. Just execute it in an Unreal Engine project folder and you're ready to go.
+The `shadeup-unreal` command is very simple, there are no options or sub-commands. Just execute it in an Unreal Engine project folder and you're ready to go.
 
 ```shell
 $ cd my-ue-project-folder
-$ shadeup
+$ shadeup-unreal
 ```
 
 ## 1. Select a plugin

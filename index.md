@@ -19,12 +19,12 @@ canonical: https://unreal.shadeup.dev
     </div>
 	<div class="splash-instructions" style="margin-left: 10rem;">
 		<h3 class="m-0 mb-2">1. Install</h3>
-		<pre class="code-block m-0 mb-6"><span style="color: var(--primary)">$</span> npm i shadeup -g</pre>
+		<pre class="code-block m-0 mb-6"><span style="color: var(--primary)">$</span> npm i @shadeup/unreal -g</pre>
 
     	<h3 class="m-0 mb-2">2. Generate</h3>
     	<pre class="code-block m-0 mb-6"><span style="color: var(--primary)">$</span> cd my-unreal-engine-project
 
-<span style="color: var(--primary)">$</span> shadeup
+<span style="color: var(--primary)">$</span> shadeup-unreal
 
 <i style="opacity: 0.4">? Which plugin do you want to use</i>
 <i style="opacity: 0.4">> ShadeupTestPlugin</i> </pre>
